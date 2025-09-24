@@ -1,32 +1,26 @@
 <h1 align="center">Hi 👋, I'm Kirti Patiya</h1>
-<h3 align="center">A passionate AI Engineer</h3>
+<h3 align="center">A passionate FrontEnd Developer</h3>
 
 <!-- Replace the image with a "Coder in action" GIF -->
 <img align="right" alt="Coder Animation" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kirtipatiya25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=KirtiPatiya25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
-- 📫 How to reach me: **gmail**
+- 📫 How to reach me: **kirtipatiya897@gmail.com**
 - ⚡ Fun fact: **I love solving real-world problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/kunal18062004" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_http.kunall" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
   <a href="https://hashnode.com/@kunalkushwaha" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge" alt="Hashnode" height="30" width="100" />
   </a>
-  <a href="https://leetcode.com/u/kunalkushwaha1806/" target="_blank">
+  <a href="https://leetcode.com/u/kirtipatiya_23/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" height="30" width="100" />
   </a>
-  <a href="https://linkedin.com/in/kunalkushwaha1806" target="_blank">
+  <a href="https://www.linkedin.com/in/kirti-patiya-a8b762311/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="30" width="100" />
   </a>
 </p>
@@ -66,6 +60,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirtipatiya25&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KirtiPatiya25&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirtipatiya25&show_icons=true&locale=en" alt="GitHub stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KirtiPatiya25&show_icons=true&locale=en" alt="GitHub stats" /></p>
