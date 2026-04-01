@@ -104,10 +104,14 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
+    alt="GitHub"
+    width="40"
+    height="40"
+  />
+</a>
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
