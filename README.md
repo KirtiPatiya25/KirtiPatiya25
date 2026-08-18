@@ -14,9 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://hashnode.com/@kirtipatiya05" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge" alt="Hashnode" height="30" width="100" />
-  </a>
+  
   <a href="https://leetcode.com/u/kirtipatiya_23/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" height="30" width="100" />
   </a>
